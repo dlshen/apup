@@ -1,1 +1,34 @@
-
+[
+    {
+        "name":"今日头条极速版",
+        "package":"com.ss.android.article.lite",
+        "launcher":"com.ss.android.article.lite.activity.MainActivity",
+        "version":"1.0",
+        "exit":2,
+        "tabs":5
+    },
+    {
+        "name":"米赚头条",
+        "package":"me.toutiaoapp",
+        "launcher":"me.toutiaoapp.ui.activity.TabFragmentActivity",
+        "version":"1.0",
+        "exit":0,
+        "tabs":3
+    },
+    {
+        "name":"东方头条",
+        "package":"com.songheng.eastnews",
+        "launcher":"com.songheng.eastfirst.common.view.activity.MainActivity",
+        "version":"1.0",
+        "exit":2,
+        "tabs":5
+    },
+    {
+        "name":"蚂蚁看点",
+        "package":"com.ldzs.zhangxin",
+        "launcher":"com.weishang.wxrd.activity.MainActivity",
+        "version":"1.0",
+        "exit":2,
+        "tabs":5
+    }
+]
