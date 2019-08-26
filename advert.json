@@ -20,7 +20,7 @@
         "tabs":3
     },
     {
-        "id":1,
+        "id":2,
         "name":"东方头条",
         "type":0,
         "package":"com.songheng.eastnews",
@@ -30,7 +30,7 @@
         "tabs":5
     },
     {
-        "id":1,
+        "id":3,
         "name":"蚂蚁看点",
         "type":0,
         "package":"com.ldzs.zhangxin",
