@@ -1,7 +1,14 @@
 [
     {
+        "id":0,
         "versionCode":1,
         "versionName":"1.0",
-        "url":""
+        "url":"download.apup/magus.zip"
+    },
+    {
+        "id":1,
+        "versionCode":1,
+        "versionName":"1.0",
+        "url":"download.apup/magus.zip"
     }
 ]
