@@ -1,42 +1,42 @@
 [
     {
         "id":0,
-        "name":"今日头条极速版",
         "type":0,
-        "package":"com.ss.android.article.lite",
+        "name":"今日头条极速版",
+        "packageName":"com.ss.android.article.lite",
         "launcher":"com.ss.android.article.lite.activity.MainActivity",
         "version":"1.0",
-        "exit":2,
-        "tabs":5
+        "exitMode":2,
+        "tabCount":5
     },
     {
         "id":1,
-        "name":"米赚头条",
         "type":0,
-        "package":"me.toutiaoapp",
+        "name":"米赚头条",
+        "packageName":"me.toutiaoapp",
         "launcher":"me.toutiaoapp.ui.activity.TabFragmentActivity",
         "version":"1.0",
-        "exit":0,
-        "tabs":3
+        "exitMode":0,
+        "tabCount":3
     },
     {
         "id":2,
-        "name":"东方头条",
         "type":0,
-        "package":"com.songheng.eastnews",
+        "name":"东方头条",
+        "packageName":"com.songheng.eastnews",
         "launcher":"com.songheng.eastfirst.common.view.activity.MainActivity",
         "version":"1.0",
-        "exit":2,
-        "tabs":5
+        "exitMode":2,
+        "tabCount":5
     },
     {
         "id":3,
-        "name":"蚂蚁看点",
         "type":0,
-        "package":"com.ldzs.zhangxin",
+        "name":"蚂蚁看点",
+        "packageName":"com.ldzs.zhangxin",
         "launcher":"com.weishang.wxrd.activity.MainActivity",
         "version":"1.0",
-        "exit":2,
-        "tabs":5
+        "exitMode":2,
+        "tabCount":5
     }
 ]
