@@ -3,8 +3,7 @@
         "id":0,
         "versionCode":1,
         "versionName":"1.0",
-        "newFunction":"-聊天互动新姿势
--聊天中收发的视频可浮窗播放",
+        "newFunction":"-聊天互动新姿势\n-聊天中收发的视频可浮窗播放",
         "releaseDate":"2019-08-10",
         "url":"download.apup/magus.zip"
     },
@@ -13,8 +12,7 @@
         "versionCode":2,
         "versionName":"2.0",
         "releaseDate":"2019-11-10",
-        "newFunction":"-聊天互动新姿势
--聊天中收发的视频可浮窗播放",
+        "newFunction":"-聊天互动新姿势\n-聊天中收发的视频可浮窗播放",
         "url":"download.apup/magus.zip"
     }
 ]
