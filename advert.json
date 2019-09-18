@@ -7,7 +7,10 @@
         "launcher":"com.ss.android.article.lite.activity.MainActivity",
         "version":"1.0",
         "exitMode":2,
-        "tabCount":5
+        "tabCount":5,
+        "priority":1,
+        "startup":"",
+        "status":0
     },
     {
         "id":1,
@@ -17,7 +20,10 @@
         "launcher":"me.toutiaoapp.ui.activity.TabFragmentActivity",
         "version":"1.0",
         "exitMode":0,
-        "tabCount":3
+        "tabCount":3,
+        "priority":1,
+        "startup":"",
+        "status":0
     },
     {
         "id":2,
@@ -27,7 +33,10 @@
         "launcher":"com.songheng.eastfirst.common.view.activity.MainActivity",
         "version":"1.0",
         "exitMode":2,
-        "tabCount":5
+        "tabCount":5,
+        "priority":1,
+        "startup":"",
+        "status":0
     },
     {
         "id":3,
@@ -37,6 +46,9 @@
         "launcher":"com.weishang.wxrd.activity.MainActivity",
         "version":"1.0",
         "exitMode":2,
-        "tabCount":5
+        "tabCount":5,
+        "priority":1,
+        "startup":"",
+        "status":0
     }
 ]
