@@ -50,5 +50,18 @@
         "priority":1,
         "startup":"",
         "status":0
+    },
+    {
+        "id":4,
+        "type":0,
+        "name":"趣头条",
+        "packageName":"com.jifen.qukan",
+        "launcher":"com.jifen.qukan/com.jifen.qkbase.main.MainActivity",
+        "version":"1.0",
+        "exitMode":2,
+        "tabCount":5,
+        "priority":1,
+        "startup":"",
+        "status":0
     }
 ]
