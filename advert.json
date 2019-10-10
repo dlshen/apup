@@ -15,6 +15,19 @@
     {
         "id":1,
         "type":0,
+        "name":"趣头条",
+        "packageName":"com.jifen.qukan",
+        "launcher":"com.jifen.qukan/com.jifen.qkbase.main.MainActivity",
+        "version":"1.0",
+        "exitMode":2,
+        "tabCount":5,
+        "priority":1,
+        "startup":"",
+        "status":0
+    },
+    {
+        "id":2,
+        "type":0,
         "name":"米赚头条",
         "packageName":"me.toutiaoapp",
         "launcher":"me.toutiaoapp.ui.activity.TabFragmentActivity",
@@ -26,7 +39,7 @@
         "status":0
     },
     {
-        "id":2,
+        "id":3,
         "type":0,
         "name":"东方头条",
         "packageName":"com.songheng.eastnews",
@@ -39,24 +52,11 @@
         "status":0
     },
     {
-        "id":3,
+        "id":4,
         "type":0,
         "name":"蚂蚁看点",
         "packageName":"com.ldzs.zhangxin",
         "launcher":"com.weishang.wxrd.activity.MainActivity",
-        "version":"1.0",
-        "exitMode":2,
-        "tabCount":5,
-        "priority":1,
-        "startup":"",
-        "status":0
-    },
-    {
-        "id":4,
-        "type":0,
-        "name":"趣头条",
-        "packageName":"com.jifen.qukan",
-        "launcher":"com.jifen.qukan/com.jifen.qkbase.main.MainActivity",
         "version":"1.0",
         "exitMode":2,
         "tabCount":5,
