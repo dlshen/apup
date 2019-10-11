@@ -9,7 +9,7 @@
         "exitMode":2,
         "tabCount":5,
         "priority":1,
-        "startup":"",
+        "startup":0,
         "status":0
     },
     {
@@ -22,7 +22,7 @@
         "exitMode":2,
         "tabCount":5,
         "priority":1,
-        "startup":"",
+        "startup":0,
         "status":0
     },
     {
@@ -48,7 +48,7 @@
         "exitMode":2,
         "tabCount":5,
         "priority":1,
-        "startup":"",
+        "startup":0,
         "status":0
     },
     {
@@ -61,7 +61,7 @@
         "exitMode":2,
         "tabCount":5,
         "priority":1,
-        "startup":"",
+        "startup":0,
         "status":0
     }
 ]
