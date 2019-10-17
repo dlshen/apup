@@ -68,5 +68,19 @@
         "priority":1,
         "startup":0,
         "status":0
+    },
+    {
+        "id":5,
+        "type":0,
+        "name":"趣看看",
+        "packageName":"com.popnews2345",
+        "launcher":"com.popnews2345.main.activity.MainActivity",
+        "homepage":"com.popnews2345.main.activity.MainActivity",
+        "version":"1.0",
+        "exitMode":2,
+        "tabCount":4,
+        "priority":5,
+        "startup":0,
+        "status":0
     }
 ]
