@@ -1,0 +1,30 @@
+[
+    {
+        "id":0,
+        "type":0,
+        "name":"抖音极速版",
+        "packageName":"com.ss.android.ugc.aweme.lite",
+        "launcher":"com.ss.android.ugc.aweme.splash.SplashActivity",
+        "homepage":"com.ss.android.ugc.aweme.splash.SplashActivity",
+        "version":"1.0",
+        "exitMode":2,
+        "tabCount":5,
+        "priority":10,
+        "startup":0,
+        "status":0
+    },
+    {
+        "id":1,
+        "type":0,
+        "name":"快手极速版",
+        "packageName":"com.kuaishou.nebula",
+        "launcher":"com.yxcorp.gifshow.HomeActivity",
+        "homepage":"com.yxcorp.gifshow.HomeActivity",
+        "version":"1.0",
+        "exitMode":2,
+        "tabCount":5,
+        "priority":10,
+        "startup":0,
+        "status":0
+    }
+]
